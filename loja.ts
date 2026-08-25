@@ -28,7 +28,7 @@ const produtos = [
     "marca": "JBL",
     "descricao": "Fone sem fio com conexão Bluetooth, microfone integrado e bateria de longa duração.",
     "preco": 249.90,
-    "foto": "https://m.media-amazon.com/images/I/51olNZRjn+L._AC_SX425_.jpgs",
+    "foto": "https://m.media-amazon.com/images/I/51olNZRjn+L._AC_SX425_.jpg",
     "quantidade": 32
   },
   {
